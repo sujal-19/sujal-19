@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity Concepts**
 
-- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
+- 👨‍💻 All of my projects are available at [portfolio](portfolio-zeta-peach-72.vercel.app)
 
 - 💬 Ask me about **Java**
 
